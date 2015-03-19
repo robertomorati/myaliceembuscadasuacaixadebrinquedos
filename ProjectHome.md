@@ -1,5 +1,9 @@
 Alice in search of your Toy Box is a game in the classic style third person, who tells a girl adventure, Alice, in a labyrinth where it is necessary to make decisions to rescue the toy box. This game is based on the classic game Hunt the Wumpus developed in 1972 by Gregory Yob.
 
+Google Code: https://code.google.com/p/myaliceembuscadasuacaixadebrinquedos/downloads/list
+Software: http://www.alice.org/
+
+
 **Commands for the game:**
 
 _Arrow keys._
