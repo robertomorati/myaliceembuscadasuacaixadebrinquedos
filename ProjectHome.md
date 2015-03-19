@@ -1,26 +1,23 @@
-Alice em Busca da sua Caixa de Brinquedos é um jogo eletrônico no estilo clássico de terceira pessoa, que conta a aventura de uma menina, Alice, em um labirinto onde tem que tomar decisões para resgatar sua caixa de brinquedos. É baseado no clássico jogo Hunt the Wumpus desenvolvido em 1972 por Gregory Yob.
+Alice in search of your Toy Box is a game in the classic style third person, who tells a girl adventure, Alice, in a labyrinth where it is necessary to make decisions to rescue the toy box. This game is based on the classic game Hunt the Wumpus developed in 1972 by Gregory Yob.
 
-**Comandos para o jogo:**
+**Commands for the game:**
 
-_Setas do teclado._
+_Arrow keys._
 
-_Tecla P para utilizar o perfume. O perfume deve ser utilizado antes de adentrar na posição do monstro._
+_Keyboard P to use the perfume.._
 
-_Tecla H para visualizar a tela de ajuda._
+_Keyboard H help._
 
-**Vídeos demonstrando o uso do jogo**
+**Videos**
 
-AbusCab - Protótipo 25
+Prototype 25
 
 <a href='http://www.youtube.com/watch?feature=player_embedded&v=I3z5kUwXu0g' target='_blank'><img src='http://img.youtube.com/vi/I3z5kUwXu0g/0.jpg' width='425' height=344 /></a>
 
-AbusCab - Protótipo 26
+Prototyp 26
 
 <a href='http://www.youtube.com/watch?feature=player_embedded&v=2R-kSLhkPjk' target='_blank'><img src='http://img.youtube.com/vi/2R-kSLhkPjk/0.jpg' width='425' height=344 /></a>
 
-AbusCab - Protótipo 30
+Prototyp 30
 
 <a href='http://www.youtube.com/watch?feature=player_embedded&v=c4jM6iSZXxg' target='_blank'><img src='http://img.youtube.com/vi/c4jM6iSZXxg/0.jpg' width='425' height=344 /></a>
-
-
-**É disponibilizado um link externo para download do projeto do jogo e do software Alice 3.0 Beta.**
